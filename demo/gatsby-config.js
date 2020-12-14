@@ -8,13 +8,13 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Demo of @hangindev/gatsby-theme-courses`,
+    title: `gatsby-theme-courses`,
     author: `Hangindev`,
     description: `A Gatsby theme for building course platform. Support autoplay, bookmark & progress tracking. Use Youtube as video host`,
     social: [
       {
         name: `github`,
-        url: `https://github.com/hangindev`,
+        url: `https://github.com/bookbysru`,
       },
     ],
   },
