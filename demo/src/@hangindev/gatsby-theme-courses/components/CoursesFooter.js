@@ -13,13 +13,13 @@ function CoursesFooter() {
           <span role="img" aria-label="white-sqaure">
             ⬜
           </span>{' '}
-          Use Youtube API to read duration
+          ใช้วีดีโอเป็นสื่อการสอน
         </li>
         <li>
           <span role="img" aria-label="white-sqaure">
             ⬜
           </span>{' '}
-          Support restricted access
+          รองรับการจำกัดการเข้าถึง
         </li>
       </ul>
     </footer>
